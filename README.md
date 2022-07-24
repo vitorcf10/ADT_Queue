@@ -9,9 +9,9 @@ vazia() = isEmpty(),
 cheia() = isFull(),
 insere() = enqueue(),
 retira() = dequeue(),
-mostra() = show(),
+mostra() = show().
 - private atributes in fila.h are:
-elementos[max] = elements[max]
-primeiro = first
-ultimo = last
-nroElementos = number of elements in queue
+elementos[max] = elements[max] / 
+primeiro = first / 
+ultimo = last / 
+nroElementos = number of elements in queue / 
